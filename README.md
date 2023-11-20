@@ -25,7 +25,7 @@ Write the HTML code with relevant CSS properties.
 Choose the appropriate style and color scheme.
 
 ### Step 7:
-Validate the HTML code.
+Insert the images in their appropriate places.
 
 ### Step 8:
 Publish the website in the LocalHost.
