@@ -1,8 +1,8 @@
-# Ex.06 Book Front Cover Page Design
+# Ex.06 Book Cover Page Design
 ## Date:
 
 ## AIM:
-To design a book front cover page using HTML and CSS.
+To design a book back cover page using HTML and CSS.
 
 ## DESIGN STEPS:
 
@@ -37,4 +37,4 @@ Publish the website in the LocalHost.
 
 
 ## RESULT:
-The program for designing book front cover page using HTML and CSS is completed successfully.
+The program for designing book back cover page using HTML and CSS is completed successfully.
